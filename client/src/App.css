@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+}
+
+
+.container {
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  text-align: center;
+  padding: 10px;
+  border-bottom: 1px dashed #ccc;
+  color: darkslategray;
+}
+
+.btn {
+  color: white;
+  padding: 10px 10px;
+border: none;
+border-radius: 4px;
+background-color: #ccc;
+
+}
+
+
+.green {
+  background-color: greenyellow;
+}
+
+
+.btn.green:hover {
+  background-color: darkgreen;
+}
+
+.red {
+  background-color: lightcoral;
+}
+
+
+.btn.red:hover {
+  background-color: darkred;
+}
+
+.input-search {
+     justify-content: space-between;
+     align-items: center;
+    
+}
+
+.input-search input {
+  width: 300px;
+  padding: 8px;
+  border-radius: 5px;
+  border: ipx solid gainsboro;
+  outline: none;
+
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  cursor: pointer;
+
+}
+
+
+.table th,
+.table td {
+  border: 1px solid gainsboro;
+}
+
+.table th {
+  background-color: darkgrey;
+}
+
+.table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.table tr:hover {
+  background-color: cyan;
+}
+
+
+
+
