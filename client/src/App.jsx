@@ -1,9 +1,23 @@
-import
+import {useEffect, useState} from "react";
 import axios from "axios";
 import "./App.css";
 
-
 function App() {
+ const [users, setUsers] = useState([]);
+
+   const getAllUsers = async () => {
+    await axios.get("http://localhost:8000/users").then
+    ((res)=> {
+      console.log(res.data);
+      setUsers(res.data);
+    });
+  
+   }
+   
+ useEffect(() => {
+    getAllUsers();
+ }, []);
+    
   return (
     <>
       <div className="container">
