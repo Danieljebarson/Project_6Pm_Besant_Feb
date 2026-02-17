@@ -1,12 +1,13 @@
 [
-  { "id": 1, "name": "அன்பு", "age": 28, "city": "சென்னை" },
-  { "id": 2, "name": "கயல்விழி", "age": 24, "city": "மதுரை" },
-  { "id": 3, "name": "செந்தில்", "age": 35, "city": "கோயம்புத்தூர்" },
-  { "id": 4, "name": "இலக்கியா", "age": 22, "city": "திருச்சி" },
-  { "id": 5, "name": "வெற்றி", "age": 30, "city": "சேலம்" },
-  { "id": 6, "name": "நிலா", "age": 27, "city": "திருநெல்வேலி" },
-  { "id": 7, "name": "அருள்மொழி", "age": 40, "city": "தஞ்சாவூர்" },
-  { "id": 8, "name": "ஓவியா", "age": 21, "city": "ஈரோடு" },
-  { "id": 9, "name": "இனியன்", "age": 26, "city": "திருப்பூர்" },
-  { "id": 10, "name": "கனிமொழி", "age": 29, "city": "தூத்துக்குடி" }
+  { "id": 1, "name": "Anbu", "age": 28, "city": "Chennai" },
+  { "id": 2, "name": "Kayalvizhi", "age": 24, "city": "Madurai" },
+  { "id": 3, "name": "Senthil", "age": 35, "city": "Coimbatore" },
+  { "id": 4, "name": "Ilakkiya", "age": 22, "city": "Trichy" },
+  { "id": 5, "name": "Vetri", "age": 30, "city": "Salem" },
+  { "id": 6, "name": "Nila", "age": 27, "city": "Tirunelveli" },
+  { "id": 7, "name": "Arulmozhi", "age": 40, "city": "Thanjavur" },
+  { "id": 8, "name": "Oviya", "age": 21, "city": "Erode" },
+  { "id": 9, "name": "Iniyan", "age": 26, "city": "Tiruppur" },
+  { "id": 10, "name": "Kanimozhi", "age": 29, "city": "Thoothukudi" },
+  { "id": 11, "name": "Kanimozhi Oviya", "age": 9, "city": "Thugudi" }
 ]
