@@ -1,13 +1,1 @@
-[
-  { "id": 1, "name": "Anbu", "age": 28, "city": "Chennai" },
-  { "id": 2, "name": "Kayalvizhi", "age": 24, "city": "Madurai" },
-  { "id": 3, "name": "Senthil", "age": 35, "city": "Coimbatore" },
-  { "id": 4, "name": "Ilakkiya", "age": 22, "city": "Trichy" },
-  { "id": 5, "name": "Vetri", "age": 30, "city": "Salem" },
-  { "id": 6, "name": "Nila", "age": 27, "city": "Tirunelveli" },
-  { "id": 7, "name": "Arulmozhi", "age": 40, "city": "Thanjavur" },
-  { "id": 8, "name": "Oviya", "age": 21, "city": "Erode" },
-  { "id": 9, "name": "Iniyan", "age": 26, "city": "Tiruppur" },
-  { "id": 10, "name": "Kanimozhi", "age": 29, "city": "Thoothukudi" },
-  { "id": 11, "name": "Kanimozhi Oviya", "age": 9, "city": "Thugudi" }
-]
+[{"id":2,"name":"Kayalvizhi","age":24,"city":"Madurai"},{"id":4,"name":"Ilakkiya","age":22,"city":"Trichy"},{"id":5,"name":"Vetri","age":30,"city":"Salem"},{"id":6,"name":"Nila","age":27,"city":"Tirunelveli"},{"id":7,"name":"Arulmozhi","age":40,"city":"Thanjavur"},{"id":9,"name":"Iniyan","age":26,"city":"Tiruppur"},{"id":10,"name":"Kanimozhi","age":29,"city":"Thoothukudi"},{"id":11,"name":"Kanimozhi Oviya","age":9,"city":"Thugudi"},{"id":1771593286367,"name":"pradeep","age":"22","city":"chennai"},{"id":1771593430433,"name":"mani","age":45,"city":"salem"},{"id":1771594245693,"name":"ganesh","age":"22","city":"chennai"},{"id":1771594535961,"name":"anusiya","age":"22","city":"salem"},{"id":1771594918516,"name":"justin","age":"33","city":"chennai"}]
